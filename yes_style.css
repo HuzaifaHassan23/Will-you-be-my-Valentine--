@@ -4,8 +4,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
+    background: radial-gradient(circle at center, #ff9a9e, #fad0c4);
+    animation: pulse 4s infinite alternate;
+    }
+
+@keyframes pulse {
+    from { filter: brightness(1); }
+    to { filter: brightness(1.1); }
 }
 
 .container {
@@ -18,7 +24,7 @@ body {
 }
 
 .gif_container img {
-    width: 100%; 
-    max-width: 500px; 
+    width: 50%; 
     height: auto; 
 }
+
