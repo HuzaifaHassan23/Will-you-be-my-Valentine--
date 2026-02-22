@@ -41,9 +41,7 @@ No frameworks. No libraries. Just pure frontend magic ✨
 
 ## 🚀 Live Demo
 
-If deployed via GitHub Pages:
-
-https://your-username.github.io/your-repo-name/
+https://huzaifahassan23.github.io/Will-you-be-my-Valentine--/
 
 
 ---
